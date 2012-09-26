@@ -1,0 +1,4 @@
+figs/*
+build
+dist
+timethem.egg-info
